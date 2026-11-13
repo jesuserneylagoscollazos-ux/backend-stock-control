@@ -9,8 +9,7 @@ Sistema automatizado que interconecta modulos independientes para centralizar y 
 * **Entorno de ejecución:** [Node.js](https://nodejs.org) (v24.18.0)
 * **Framework Backend:** [Express.js](https://expressjs.com)
 * **Base de Datos:** PostgreSQL
-* **ORM / ODM:** [Ej. Prisma / Sequelize / Mongoose] *(opcional)*
-* **Otras herramientas:** [Ej. Dotenv, Cors, Morgan, etc.]
+* **Otras herramientas:** cors dotenv morgan pg
 
 ---
 
@@ -20,7 +19,7 @@ Antes de comenzar, asegúrate de tener instalado en tu máquina local:
 
 * **Node.js** v24.18.0 y **npm**.
 * **Git** para clonar el repositorio.
-* **PostgreSQL** instalado localmente o acceso a una instancia en la nube.
+* **PostgreSQL** instalado localmente.
 
 ---
 
